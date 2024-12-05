@@ -1,0 +1,5 @@
+git clone --recurse-submodules https://github.com/titaniumnetwork-dev/Holy-Unblocker.git
+
+cd Holy-Unblocker
+
+npm start
